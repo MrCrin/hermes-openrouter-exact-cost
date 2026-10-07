@@ -1,0 +1,9 @@
+name: hermes-openrouter-exact-cost
+kind: model-provider
+version: 0.1.0
+description: >-
+  OpenRouter exact per-request cost accounting. Replaces Hermes' local
+  tokens x rate estimate with the amount OpenRouter actually billed for each
+  request, so session and analytics costs match the OpenRouter invoice.
+author: Michael Crinnion
+requires_hermes: ">=0.21.5"

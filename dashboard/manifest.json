@@ -1,0 +1,7 @@
+{
+  "name": "hermes-openrouter-exact-cost",
+  "label": "OpenRouter Exact Cost (Desktop)",
+  "description": "Backend route for the Hermes Desktop status-bar chip: serves one focused session's recorded OpenRouter spend, read from state.db.",
+  "version": "0.2.0",
+  "api": "plugin_api.py"
+}

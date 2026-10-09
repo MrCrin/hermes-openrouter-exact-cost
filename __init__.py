@@ -71,7 +71,7 @@ from providers.base import ProviderProfile
 
 logger = logging.getLogger(__name__)
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 
 PROVIDER_NAME = "openrouter"
 #: Bundled plugin module for this provider. Only importable once bundled
